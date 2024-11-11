@@ -42,7 +42,7 @@
 ### Steps
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/MovieBookingSystem.git
+   git clone https://github.com/Bikash432/MovieBookingSystem-ASP.NET.git
    cd MovieBookingSystem
    ```
 
